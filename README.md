@@ -58,16 +58,16 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img algin='left' width='49%' src='https://github-readme-stats.vercel.app/api?username=Cx3n1&count_private=true&show_icons=true&theme=outrun' /> -->
-  <img width='49.7' src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Cx3n1&count_private=true&theme=outrun&border_radius=10" alt="streak stats"/>
+  <img algin='left' width=390 src='https://github-readme-stats.vercel.app/api?username=Cx3n1&count_private=true&show_icons=true&theme=outrun' />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Cx3n1&count_private=true&theme=outrun&border_radius=10" alt="streak stats"/>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Cx3n1&hide=HTML&langs_count=8&layout=compact&theme=outrun&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
-
+<!-- 
 <p align=left>
 <img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=sfruff&count_private=true&show_icons=true&theme=outrun' />
 <img align='right' width='49.7%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cx3n1&theme=outrun&langs_count=20' />
 <img algin='left' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=Cx3n1&theme=outrun' />
-</p>
+</p> -->
