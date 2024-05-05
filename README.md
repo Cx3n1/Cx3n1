@@ -58,7 +58,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img algin='left' width=377 src='https://github-readme-stats.vercel.app/api?username=Cx3n1&count_private=true&show_icons=true&theme=outrun&border_radius=10&rank_icon=github' alt="readme stats"/>
+  <img algin='left' width=377 src='https://github-readme-stats-Cx3n1.vercel.app/api?username=Cx3n1&count_private=true&show_icons=true&theme=outrun&border_radius=10&rank_icon=github' alt="readme stats"/>
   <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Cx3n1&count_private=true&theme=outrun&border_radius=10" alt="streak stats"/>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Cx3n1&hide=HTML&langs_count=8&layout=compact&theme=outrun&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
