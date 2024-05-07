@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  🔭 I’m currently working.
+  🔭 I’m currently working.<br><br>
 
   🌱 I’m currently learning.
 
