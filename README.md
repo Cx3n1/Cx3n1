@@ -11,13 +11,13 @@
 <br/>
 
 <div align="center">
- 🔭 I’m currently working <br/>
+     🔭 I’m currently working 
     
-🌱 I’m currently learning
+    🌱 I’m currently learning
 
-💬 aaand Ask me.
+    💬 aaand Ask me.
 
-⚡ Also, Fun fact!
+    ⚡ Also, Fun fact!
  </div>
  
 <div align="center"> 
