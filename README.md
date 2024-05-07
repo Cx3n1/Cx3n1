@@ -12,8 +12,8 @@
 
 <div align="center">
  🔭 I’m currently working
-
- 🌱 I’m currently learning
+    
+🌱 I’m currently learning
 
 💬 aaand Ask me.
 
