@@ -5,15 +5,12 @@
 <!--Instructions: at the end on lines= write your text (+ will be space) if you separate with ; you will get multiple lines displaying in cycle-->
 <!--Duration is in milliseconds-->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Cx3n1;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=100&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Cx3n1;" />
 </h1>
-
 <h3 align="center">A passionate software/game developer from Georgia 🇬🇪</h3>
-
 <br/>
 
 <div align="center">
- 
  🔭 I’m currently working
 
  🌱 I’m currently learning
@@ -21,7 +18,6 @@
 💬 aaand Ask me.
 
 ⚡ Also, Fun fact!
-
  </div>
  
 <div align="center"> 
@@ -42,7 +38,6 @@
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider,idea,androidstudio,github,bitbucket,arduino" /><br>
 </div>
 
-<br/>
 <hr/>
 
 <div align="center">
