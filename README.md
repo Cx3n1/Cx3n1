@@ -9,16 +9,6 @@
 </h1>
 <h3 align="center">A passionate software/game developer from Georgia 🇬🇪</h3>
 <br/>
-
-<div align="center">
-  🔭 I’m currently working.<br><br>
-
-  🌱 I’m currently learning.
-
-  💬 aaand Ask me.
-
-  ⚡ Also, Fun fact!
- </div>
  
 <div align="center"> 
   <a href="mailto:Lukagobronidze@gmail.com">
