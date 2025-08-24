@@ -5,7 +5,7 @@
 <!--Instructions: at the end on lines= write your text (+ will be space) if you separate with ; you will get multiple lines displaying in cycle-->
 <!--Duration is in milliseconds-->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Cx3n1;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Be Creative!;" />
 </h1>
 <h3 align="center">Experienced software/game developer from Georgia 🇬🇪</h3>
 <br/>
